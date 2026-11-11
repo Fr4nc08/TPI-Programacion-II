@@ -1,0 +1,13 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "PowerPiteFit",
+            "request": "launch",
+            "mainClass": "Main",
+            "console": "integratedTerminal",
+            "vmArgs": "-Dstdout.encoding=UTF-8"
+        }
+    ]
+}
