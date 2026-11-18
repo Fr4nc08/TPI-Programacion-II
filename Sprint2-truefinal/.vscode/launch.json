@@ -1,0 +1,19 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "DemoSinBD",
+            "request": "launch",
+            "mainClass": "DemoSinBD",
+            "projectName": "powerpitefit_957ec7ba"
+        },
+        {
+            "type": "java",
+            "name": "PowerPiteFit",
+            "request": "launch",
+            "mainClass": "Main",
+            "console": "integratedTerminal"
+        }
+    ]
+}
